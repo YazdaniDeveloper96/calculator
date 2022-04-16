@@ -237,22 +237,4 @@ button_clear.bind("<Leave>",funcc1)
 button_equal.bind("<Enter>",funce)
 button_equal.bind("<Leave>",funce1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop()
