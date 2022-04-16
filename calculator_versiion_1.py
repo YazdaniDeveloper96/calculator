@@ -161,7 +161,6 @@ button_plus=Button(root,text='+',width=4,padx=20,pady=10)
 button_minus=Button(root,text='-',width=4,padx=20,pady=10)
 button_divide=Button(root,text='/',width=4,padx=20,pady=10)
 button_times=Button(root,text='*',width=4,padx=20,pady=10)
-
 myentry_1.grid(row=0,column=0,columnspan=3,padx=5,pady=5)
 #-----------------------------------------------number box griding
 button_1.grid(row=1,column=0)
