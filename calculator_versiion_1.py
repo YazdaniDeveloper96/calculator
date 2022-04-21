@@ -66,7 +66,7 @@ def equal(number):
     else:
         myentry_1.insert(0,n1/int(secend_number))
     sign=""
-#-------------clear
+#--------------------------------------------------------------clear
 def clear(event):  
     label_1.config(text="clear")
     myentry_1.delete(0,END)
